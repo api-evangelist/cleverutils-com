@@ -64,5 +64,123 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-CleverUtils is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://cleverutils.com
+CleverUtils provides a free online file conversion platform offering tools for audio, video, image, document, and PDF conversion across 200+ formats. Users can upload files up to 100 MB, convert them instantly with encryption, and receive results via download or email. The service includes AI-powered features like noise reduction, background removal, and OCR, and operates with automatic file deletion after two hours.
+
+**Areas:** File Conversion · Online Tools · AI Features · Free Service · Multi-format
+
+## CleverUtils on APIs.io
+
+Everything profiled for CleverUtils is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/cleverutils-com/](https://apis.io/providers/cleverutils-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [CleverUtils API](https://apis.io/apis/cleverutils-com/cleverutils-com-api/) — CleverUtils API as documented publicly: 24 operations. Contract generated from the documentation by API Evangelist (2026-10-29); not the provider's own…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [GetApiV1JobsJobidResponse](https://apis.io/schemas/cleverutils-com/cleverutils-com-get-api-v1-jobs-jobid-response/)
+- [GetItApiV1LimitsResponse](https://apis.io/schemas/cleverutils-com/cleverutils-com-get-it-api-v1-limits-response/)
+- [PostApiV1ConvertResponse](https://apis.io/schemas/cleverutils-com/cleverutils-com-post-api-v1-convert-response/)
+- [PostDeApiV1ConvertResponse](https://apis.io/schemas/cleverutils-com/cleverutils-com-post-de-api-v1-convert-response/)
+- [PostFrApiV1ConvertResponse](https://apis.io/schemas/cleverutils-com/cleverutils-com-post-fr-api-v1-convert-response/)
+- [PostItApiV1ConvertResponse](https://apis.io/schemas/cleverutils-com/cleverutils-com-post-it-api-v1-convert-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Cleverutils Com Context](https://apis.io/jsonld/cleverutils-com/cleverutils-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [CleverUtils API Rules](https://apis.io/rules/cleverutils-com/cleverutils-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Cleverutils Com Domain Security](https://apis.io/security/cleverutils-com/cleverutils-com-domain-security/)
+- [Cleverutils Com Vulnerability Disclosure](https://apis.io/security/cleverutils-com/cleverutils-com-vulnerability-disclosure/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Cleverutils Com Rate Limits](https://apis.io/rate-limits/cleverutils-com/cleverutils-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://cleverutils.com)
+- [Documentation](https://cleverutils.com/guides)
+- [Getting started](https://cleverutils.com/api/quickstart)
+- [API reference](https://cleverutils.com/api/reference)
+- [Changelog](https://cleverutils.com/changelog)
+- [Security](https://cleverutils.com/security)
+- [Terms of service](https://cleverutils.com/terms)
+- [Privacy policy](https://cleverutils.com/privacy)
+- [GitHub](https://github.com/modelcontextprotocol)
+
+## API Evangelist rating
+
+**Kin Score 46.6** — developing · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 56.7 |
+| Contract quality | 49.2 |
+| Contract governance | 79.1 |
+| Operational transparency | 60.0 |
+| Developer ergonomics | 28.6 |
+| Access clarity | 21.1 |
+
+**Agent readiness 22.8** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/cleverutils-com/](https://apis.io/providers/cleverutils-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for CleverUtils: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/cleverutils-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
